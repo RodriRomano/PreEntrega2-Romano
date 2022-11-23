@@ -252,9 +252,3 @@ h3 {
 #footer-grid {
     grid-area: footer;
 }
-
-@media screen and (max-width: 992px) {
-    .parrafo-media {
-        padding: 10rem;
-    }
-}
