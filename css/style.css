@@ -22,6 +22,9 @@ body {
     background-image: linear-gradient(black, gray);
 }
 
+h2 {
+    text-align: center;
+}
 .header-imagen {
     height: 12rem;
 }
@@ -248,4 +251,10 @@ h3 {
 
 #footer-grid {
     grid-area: footer;
+}
+
+@media screen and (max-width: 992px) {
+    .parrafo-media {
+        padding: 5rem;
+    }
 }
