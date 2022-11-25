@@ -183,6 +183,8 @@ h3 {
     transform: scale(2);
 }
 .footer {
+    display: grid;
+    grid-area: footer;
     background-color: rgb(199, 205, 211);
 }
 
