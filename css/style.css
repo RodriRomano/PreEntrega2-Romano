@@ -182,6 +182,7 @@ h3 {
 .imagen-gimnasia:hover {
     transform: scale(2);
 }
+
 .footer {
     display: grid;
     grid-area: footer;
